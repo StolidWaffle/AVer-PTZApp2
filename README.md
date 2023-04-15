@@ -9,3 +9,6 @@
 **Root Cause**: This vulnerability is caused by insufficient filtering and validation of browser supplied user input. 
 
 **Affected Versions**: All versions of PTZApp2 prior to update 2.0.1051.53 are affected by this vulnerability. 
+
+
+**Credit for Discovery**: Dallan Adams
